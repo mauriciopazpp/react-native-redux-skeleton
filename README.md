@@ -1,3 +1,5 @@
+<img align="center" src="https://cdn-images-1.medium.com/max/600/1*i1yreXvK0kGrS9_uy5qKHQ.jpeg"/>
+
 ### React-native react-redux skeleton
   This skeleton is forged with the greatest libraries available to provide a pretty awesome kickstart for your new react-native app.
 
