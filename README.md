@@ -19,11 +19,8 @@ Obs: This project was bootstrapped with Create React Native App.
 
 ## To run
 ```
-  "start": "react-native-scripts start",
-  "eject": "react-native-scripts eject",
-  "android": "react-native-scripts android",
-  "ios": "react-native-scripts ios",
-  "test": "jest"
+  yarn android run
+  yarn ios run
 ```
 
 ## Environment Variables
