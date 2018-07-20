@@ -1,0 +1,3 @@
+export const LOADING = 'LOADING'
+export const SOMETHING = 'SOMETHING'
+export const ANOTHER_SOMETHING = 'ANOTHER_SOMETHING'

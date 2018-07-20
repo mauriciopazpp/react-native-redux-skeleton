@@ -1,0 +1,15 @@
+{
+  "presets": ["babel-preset-expo"],
+  "plugins": [
+    ["module-resolver", {
+      "root": ["./app"],
+      "alias": {
+        "@api": "./app/src/api",
+        "@components": "./app/src/components",
+        "@screen": "./app/src/screens",
+        "@store": "./app/src/store",
+        "!config": "./app/config"
+      }
+    }]
+  ]
+}
